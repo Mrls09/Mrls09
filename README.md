@@ -1,4 +1,12 @@
-### Hi there , I'm Ivan 👋
+
+<div aling="center">
+  <h1 align="center">Hello! I am Ivan 👋</h1>
+</div>
+
+## About me
+- Java Developer
+- I´m currently studying Software Engineer
+- I like everything related to technology
 
 <!--
 **Mrls09/Mrls09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
