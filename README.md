@@ -1,6 +1,6 @@
 
 <div aling="center">
-  <h1 align="center">Hello! I am Ivan 👋</h1>
+  <h1 align="center">Hello! I'm Ivan 👋</h1>
 </div>
 
 ## About me
