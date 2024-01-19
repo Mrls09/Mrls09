@@ -8,6 +8,10 @@
 - I´m currently studying Software Engineer
 - I like everything related to technology
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrls09&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrls09&theme=tokyonight)](https://github.com/Mrls09/github-readme-stats)
+
+
 <!--
 **Mrls09/Mrls09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
