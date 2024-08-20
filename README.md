@@ -4,7 +4,7 @@
 </div>
 
 ## About me
-- Java Developer
+- Full Stack Developer
 - I´m currently studying Software Engineer
 - I like everything related to technology
 ## Achievements
