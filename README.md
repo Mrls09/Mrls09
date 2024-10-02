@@ -8,7 +8,9 @@
 - I´m currently studying Software Engineer
 - I like everything related to technology
 ## Achievements
-- I won first place in the 12th edition of the Hackathon Morelos 
+- I won first place in the 12th edition of the Hackathon Morelos
+- I won second place in the Talent Land Hackathon 2024
+- I won third place in the 13th edition of the Hackathon Morelos
 
 ## GitHub Analytics 
 
